@@ -1,0 +1,151 @@
+h1 {
+  color: #3968b4;
+  font-weight: 500;
+  font-size: 5.2em;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  margin: 1em 17% 0.1em 17%;
+}
+
+h5 {
+  color: #799cc7;
+  font-weight: lighter;
+  font-size: 0.9em;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+.vv3 {
+  border-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 12em;
+  width: 30%;
+  border-radius: 500%;
+  border: 0;
+}
+
+body {
+  background-color: #FAFFFD;
+}
+
+h4 {
+  border-radius: 5%;
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 100%;
+  margin-right: 83%;
+}
+
+.h4a {
+  display: block;
+  background-color: #D1D0C2;
+  margin: 1% 86% 1% 8%;
+}
+
+.h4b {
+  background-color: #AAB1AB;
+  margin: 5% 78% 1% 7%;
+}
+
+.vvp {
+  width: 10%;
+  height: 10%;
+  padding: auto;
+}
+
+.t1 {
+  border-spacing: 10%;
+  padding-left: 0em;
+  padding-right: 0em;
+}
+
+.t2 {
+  border-spacing: 4em;
+  width: 100%;
+  border-spacing: 10%;
+}
+
+.td2 {
+  padding: 10% 15% 10% 10%;
+}
+
+.tr2:nth-child(even) {
+  background-color: #E2F3EE;
+}
+
+.tr2:nth-child(odd) {
+  background-color: #FFF7D0;
+}
+
+.d {
+  background-color: #A9B7B0;
+  border-radius: 0%;
+  margin-right: 9em;
+  margin-left: 9em;
+}
+
+.d3 {
+  background-color: #F7F0F4;
+}
+
+.d1 {
+  background-color: #DEE0E4;
+}
+
+.d2 {
+  margin: 6% 6% 6% 0px;
+  padding: 5% 3% 3% 5%;
+  background-color: #B1B1B9;
+  border-radius: 10%;
+}
+
+.d4 {
+  margin: 16px 200px 0 200px;
+  background-color: #C7D2D0;
+  width: 81%;
+}
+
+.twitter-tweet {
+  padding: 1em 1em 1em 4em;
+  /*display: block;
+  margin-left: 20%;
+  margin-right: 20%;*/
+}
+
+hr {
+  border-style: dotted none none;
+  margin: 6% 25% 6% 25%;
+  width: 50%;
+  border-width: 20px;
+  /*border-right-style: none;
+  border-left-style: none;*/
+}
+
+.hr1 {
+  border-color: #9EBAA5;
+}
+
+.hr2 {
+  border-color: #77BFE8;
+}
+.hr3{
+  border-color: #6A6BAD;
+}
+.hr4{
+  border-color: #E83878;
+}
+.tab1 {
+  display: inline-block;
+}
+
+.tab2 {
+  margin: 0 0 0 20%;
+  display: inline-block;
+}
+.tab3{
+  border-spacing: 10px
+}
